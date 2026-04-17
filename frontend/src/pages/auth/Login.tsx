@@ -36,7 +36,7 @@ export default function Login() {
       }}>
         <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
           <h1 style={{ fontSize: 28, fontWeight: 700, color: '#185FA5', margin: 0 }}>
-            Grottech
+            GrotDesk
           </h1>
           <p style={{ color: '#6B7280', marginTop: 6, fontSize: 14 }}>
             Sistema de gestão para assistência técnica

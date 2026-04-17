@@ -34,7 +34,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           padding: '1.5rem 1.25rem', borderBottom: '1px solid #1E293B'
         }}>
           <h1 style={{ color: '#fff', fontSize: 20, fontWeight: 700, margin: 0 }}>
-            Grottech
+            GrotDesk
           </h1>
           <p style={{ color: '#64748B', fontSize: 12, margin: '4px 0 0' }}>
             {usuario?.nome_empresa}
